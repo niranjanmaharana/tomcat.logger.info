@@ -1,0 +1,28 @@
+#ui-id-1{color:blue; width:140px !important; min-height:20px; max-height:170px; overflow: auto; background-color: white;}
+.filecontent{display: inline; float: left; margin-left: 10px; width:275px; height: 150px; background: url(images/frame.png) no-repeat; background-size : 275px 150px;}
+.totalFile{width:275px; height: 150px; background: url(images/frame.png) no-repeat; background-size : 275px 150px;}
+img{width:52px; height:52px; padding-left: 10px; padding-top: 15px; cursor: pointer;}
+#info{padding-top: 10px; padding-left: 10px;}
+.fileFrame{overflow:auto; height: 500px; max-height: 500px;}
+#backImg{width:140px; height:40px;}
+.headSec{height: 0px; text-align: center; font-size: 50px;}
+.search{display: inline; float: right;}
+.filter{margin-top: 20px;}
+.totalFile{display: inline; float: left; margin-left: 10px;}
+#order{margin-left: 10px; width: 160px; height: 29px;}
+#loader-wrapper .loader-section{margin-top : 121px; width : 1000px !important; margin: 0px auto;margin: 121px 0px 20px 0px;height: auto;}
+.files{width:300px; height: 90px;}
+.ui-menu {height: 150px !important;cursor: pointer;}
+.logo{float: left; width: 150px; height: 36px; padding: 30px 0 0 10px;}
+.logout{text-decoration: none; color: #666;}
+.filter{width: 972px;}
+.filter table{width: 100%;}
+input.search{background: url(images/search.png) no-repeat; background-size: 30px 30px; background-position: right;}
+.fileInfo{width: 920px; height: 0px;}
+.backButton{float: right; color: #777; text-decoration: none;}
+div.info{overflow: auto; min-height: 300px;}
+.files .fileSize{color: blue;}
+.files span{color: red; padding-left: 20px;}
+.totalFile .fileSize{color: blue;}
+.totalFile span{color: red; padding-left: 20px;}
+.hilite{background-color: rgb(255, 255, 0);}
